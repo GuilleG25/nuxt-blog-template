@@ -1,0 +1,14 @@
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.2s;
+}
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+.max-w-5xl {
+  max-width: 60rem;
+}
+.max-w-2xl {
+  max-width: 44rem;
+}
